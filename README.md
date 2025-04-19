@@ -21,7 +21,7 @@ A detailed sales analysis using **Jupyter Notebook** with Python libraries like 
 - 📊 Exploratory Data Analysis
 - 📌 Insight Generation
 
-### 📚 Library Management System *(will be uploading soon)*
+### 📚 Library Management System
 A **Python + MySQL** GUI project built using **Tkinter** on **PyCharm**, designed to manage book check-ins/check-outs, user records, and inventory.
 - 💾 Backend: MySQL
 - 🖼️ Frontend: Tkinter GUI
