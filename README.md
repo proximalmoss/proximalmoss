@@ -21,6 +21,13 @@ A detailed sales analysis using **Jupyter Notebook** with Python libraries like 
 - 📊 Exploratory Data Analysis
 - 📌 Insight Generation
 
+✍️ Handwritten Character Recognition System
+A Python-based ML project that recognizes handwritten English alphabets (A–Z) using a trained model and a simple GUI.
+
+- 🧠 Built with scikit-learn and the A–Z Handwritten Alphabets dataset
+- 🖼️ Tkinter GUI for drawing and real-time prediction
+- 📂 Modular structure: separate scripts for training, prediction, and interface
+
 ### 📚 Library Management System
 A **Python + MySQL** GUI project built using **Tkinter** on **PyCharm**, designed to manage book check-ins/check-outs, user records, and inventory.
 - 💾 Backend: MySQL
