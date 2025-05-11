@@ -13,7 +13,9 @@ Welcome to my GitHub! I'm currently pursuing a Bachelor's in Computer Applicatio
 
 ---
 
-📊 Walmart Customer Satisfaction Predictor
+## 🚀 Projects
+
+### 📊 Walmart Customer Satisfaction Predictor
 A machine learning project to predict customer satisfaction levels at Walmart based on transactional data.
 
 📝 Data Preprocessing and Feature Engineering
@@ -21,17 +23,13 @@ A machine learning project to predict customer satisfaction levels at Walmart ba
 🧠 Model Training and Evaluation
 🚀 Predictive Analysis and Insights
 
----
-
-## 🚀 Projects
-
 ### 📈 Diwali Sales Analysis
 A detailed sales analysis using **Jupyter Notebook** with Python libraries like **Pandas**, **Matplotlib**, and **Seaborn** to derive insights from Diwali season data.
 - 🧹 Data Cleaning
 - 📊 Exploratory Data Analysis
 - 📌 Insight Generation
 
-✍️ Handwritten Character Recognition System
+### ✍️ Handwritten Character Recognition System
 A Python-based ML project that recognizes handwritten English alphabets (A–Z) using a trained model and a simple GUI.
 
 - 🧠 Built with scikit-learn and the A–Z Handwritten Alphabets dataset
