@@ -13,6 +13,16 @@ Welcome to my GitHub! I'm currently pursuing a Bachelor's in Computer Applicatio
 
 ---
 
+📊 Walmart Customer Satisfaction Predictor
+A machine learning project to predict customer satisfaction levels at Walmart based on transactional data.
+
+📝 Data Preprocessing and Feature Engineering
+📈 Exploratory Data Analysis (EDA)
+🧠 Model Training and Evaluation
+🚀 Predictive Analysis and Insights
+
+---
+
 ## 🚀 Projects
 
 ### 📈 Diwali Sales Analysis
