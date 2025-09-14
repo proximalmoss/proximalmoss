@@ -6,10 +6,10 @@ Welcome to my GitHub! I'm currently pursuing a Bachelor's in Computer Applicatio
 
 ---
 
-## 🧪 Python Practice & Problem Solving
+## 🧪 What I am learning now
 
-- 🗂️ Consistently solving Python exercises and building mini-projects
-- 💡 Topics covered: loops, file handling, OOP and more.
+- 🗂️ Consistently solving SQL questions on leetcode
+- 💡 Getting into statistics and ML
 
 ---
 
