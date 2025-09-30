@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="fun coding cat" width="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
 
 🎯 **Aspiring Data Scientist** | 💻 Python Enthusiast | 📊 Data Explorer  
 
