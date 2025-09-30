@@ -5,6 +5,9 @@
 
 <img align="right" alt="fun coding cat" width="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
 
+
+
+
 🎯 **Aspiring Data Scientist** | 💻 Python Enthusiast | 📊 Data Explorer  
 
 Welcome to my GitHub! I'm currently pursuing a Bachelor's in Computer Application (2nd year) and exploring the world of data science with hands-on practice in Python, SQL, and data visualization.  
