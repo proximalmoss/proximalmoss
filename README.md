@@ -6,10 +6,10 @@ Welcome to my GitHub! I'm currently pursuing a Bachelor's in Computer Applicatio
 
 ## 🧪 What I am learning now  
 - 🤖 Machine Learning techniques  
-- 🐍 Python mini-projects
-- 🧩 Data Structures and Algorithms
 
----
+- 🐍 Python mini-projects
+
+- 🧩 Data Structures and Algorithms
 
 ## 🛠️ Skills  
 
@@ -49,8 +49,6 @@ Welcome to my GitHub! I'm currently pursuing a Bachelor's in Computer Applicatio
   </a>
 </p>
 
----
-
 ## 📬 Let's Connect  
 
 <p align="left">
@@ -70,8 +68,6 @@ Welcome to my GitHub! I'm currently pursuing a Bachelor's in Computer Applicatio
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="40" width="40" />
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proximalmoss&layout=compact&theme=radical" alt="Top Languages" />
