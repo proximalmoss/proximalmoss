@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hanan Hidayathulla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Hi, I'm Hanan Hidayathulla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 🎯 **Aspiring Data Scientist** | 💻 Python Enthusiast | 📊 Data Explorer  
 
