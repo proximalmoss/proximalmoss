@@ -1,80 +1,78 @@
-# 👋 Hi, I'm Hanan Hidayathulla
+# 👋 Hi, I'm Hanan Hidayathulla  
 
-🎯 **Aspiring Data Scientist** | 💻 Python Enthusiast | 📊 Data Explorer
+🎯 **Aspiring Data Scientist** | 💻 Python Enthusiast | 📊 Data Explorer  
 
-Welcome to my GitHub! I'm currently pursuing a Bachelor's in Computer Application (2nd year) and exploring the world of data science with hands-on projects in Python, SQL, and data visualization.
-
----
-
-## 🧪 What I am learning now
-
-- 🗂️ Consistently solving SQL questions on leetcode
-- 💡 Getting into statistics and ML
+Welcome to my GitHub! I'm currently pursuing a Bachelor's in Computer Application (2nd year) and exploring the world of data science with hands-on practice in Python, SQL, and data visualization.  
 
 ---
 
-## 🚀 Projects
-
-### 📊 Walmart Customer Satisfaction Predictor
-A machine learning project to predict customer satisfaction levels at Walmart based on transactional data.
-
-- 📝 Data Preprocessing and Feature Engineering
-- 📈 Exploratory Data Analysis (EDA)
-- 🧠 Model Training and Evaluation
-- 🚀 Predictive Analysis and Insights
-
-### 📈 Diwali Sales Analysis
-A detailed sales analysis using **Jupyter Notebook** with Python libraries like **Pandas**, **Matplotlib**, and **Seaborn** to derive insights from Diwali season data.
-- 🧹 Data Cleaning
-- 📊 Exploratory Data Analysis
-- 📌 Insight Generation
-
-### ✍️ Handwritten Character Recognition System
-A Python-based ML project that recognizes handwritten English alphabets (A–Z) using a trained model and a simple GUI.
-
-- 🧠 Built with scikit-learn and the A–Z Handwritten Alphabets dataset
-- 🖼️ Tkinter GUI for drawing and real-time prediction
-- 📂 Modular structure: separate scripts for training, prediction, and interface
-
-### 📚 Library Management System
-A **Python + MySQL** GUI project built using **Tkinter** on **PyCharm**, designed to manage book check-ins/check-outs, user records, and inventory.
-- 💾 Backend: MySQL
-- 🖼️ Frontend: Tkinter GUI
-- ⚙️ CRUD Operations and login system
-
-### 🧠 HR Analytics Dashboard
-An interactive **Power BI dashboard** built to visualize and analyze HR data, uncovering insights into attrition, department-wise performance, and employee trends.
-- 📊 KPIs and custom visuals
-- 📈 Trend Analysis and filters
+## 🧪 What I am learning now  
+- 🤖 Machine Learning techniques  
+- 🐍 Python mini-projects  
 
 ---
 
-## 📚 Currently Learning
+## 🛠️ Skills  
 
-- Advanced Python libraries for data science
-- Exploratory Data Analysis (EDA)
-- Data-focused mathematics and statistics
+**Languages & Tools:**  
+<p align="left"> 
+  <!-- Languages -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a>
 
----
+  <!-- Libraries -->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> 
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="80" height="40"/> 
+  </a>
 
-## 📬 Let's connect
-
-- 📧 [Email](mailto:hananhidayathulla3@gmail.com)
-- 🐦 [Twitter / X](https://x.com/Hanan_Hidayath)
-
----
-
-<h3 align="center">🎯 Aspiring Data Scientist</h3>
-
-<h3 align="left">Check out: </h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hanan-hidayathulla-882a072a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hanan-hidayathulla-882a072a6/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/hananhidayathul1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/hananhidayathul1" height="30" width="40" /></a>
+  <!-- Tools -->
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi" width="40" height="40"/> 
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 📬 Let's Connect  
+
+<p align="left">
+  <a href="mailto:hananhidayathulla3@gmail.com" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/hanan-hidayathulla-882a072a6/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/Cm9xqf4yg3/" target="blank">
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png" alt="leetcode" height="40" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/hananhidayathul1" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="40" width="40" />
+  </a>
+  <a href="https://x.com/Hanan_Hidayath" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="40" width="40" />
+  </a>
+</p>
 
 ---
 
-⭐ *Feel free to explore my repositories and drop a ⭐ if you find something cool!*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=proximalmoss&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proximalmoss&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+⭐ *Feel free to explore my repositories and drop a ⭐ if you find something cool!*  
