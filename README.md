@@ -1,12 +1,9 @@
 <h1 align="left">
   Hi, I'm Hanan Hidayathulla
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
 </h1>
 
 <img align="right" alt="fun coding cat" width="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
-
-
-
 
 🎯 **Aspiring Data Scientist** | 💻 Python Enthusiast | 📊 Data Explorer  
 
