@@ -6,8 +6,10 @@
 Welcome to my GitHub! I'm currently pursuing a Bachelor's in Computer Application (2nd year) and exploring the world of data science with hands-on practice in Python, SQL, and data visualization.  
 
 ## 🧪 What I am learning now  
-- 🤖 Machine Learning techniques  
+- 🤖 Machine Learning techniques
+
 - 🐍 Python mini-projects  
+
 - 🧩 Data Structures and Algorithms  
 
 ## 🛠️ Skills  
