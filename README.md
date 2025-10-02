@@ -7,10 +7,8 @@ Welcome to my GitHub! I'm currently pursuing a Bachelor's in Computer Applicatio
 
 ## 🧪 What I am learning now  
 - 🤖 Machine Learning techniques  
-
-- 🐍 Python mini-projects
-
-- 🧩 Data Structures and Algorithms
+- 🐍 Python mini-projects  
+- 🧩 Data Structures and Algorithms  
 
 ## 🛠️ Skills  
 
@@ -19,6 +17,16 @@ Welcome to my GitHub! I'm currently pursuing a Bachelor's in Computer Applicatio
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a>
+</p>
+
+**Databases:**  
+<p align="left"> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
@@ -42,9 +50,6 @@ Welcome to my GitHub! I'm currently pursuing a Bachelor's in Computer Applicatio
 
 **Tools:**  
 <p align="left"> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi" width="40" height="40"/> 
   </a>
