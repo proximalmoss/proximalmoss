@@ -8,8 +8,6 @@ Welcome to my GitHub! I'm currently pursuing a Bachelor's in Computer Applicatio
 ## 🧪 What I am learning now  
 - 🤖 Machine Learning techniques
 
-- 🐍 Python mini-projects  
-
 - 🧩 Data Structures and Algorithms  
 
 ## 🛠️ Skills  
