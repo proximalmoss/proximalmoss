@@ -3,7 +3,7 @@
 
 🎯 **Aspiring Data Scientist** | 💻 Python Enthusiast | 📊 Data Explorer  
 
-Welcome to my GitHub! I'm currently pursuing a Bachelor's in Computer Application (2nd year) and exploring the world of data science with hands-on practice in Python, SQL, and data visualization.  
+Welcome to my GitHub! I'm currently pursuing a Bachelor's in Computer Application (Final year) and exploring the world of data science with hands-on practice in Python, SQL, and data visualization.  
 
 ## 🧪 What I am learning now  
 - 🤖 Machine Learning techniques
