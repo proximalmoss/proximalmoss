@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm currently pursuing a Bachelor's in Computer Applicatio
 ## ❓ What I am learning now  
 - 🆎🧪 A/B Testing projects
 
-- 🧩 PyTorch concepts and practical implementation 
+- 🧩 Building AI agents 
 
 ## 🛠️ Skills  
 
